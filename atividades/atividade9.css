@@ -12,10 +12,12 @@ footer {
 }
 section {
   min-height: 800px;
-  background-color:purple;
+  background-color:purple;  
 }
 .coluna {
   display: inline-block;
-  width: 48%;
-  border 1% solid orange;
+  width: 50%;
+}
+.primeira.coluna {
+  background-color:navy;
 }
