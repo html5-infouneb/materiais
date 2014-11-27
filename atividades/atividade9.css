@@ -19,7 +19,7 @@ section {
   display: inline-block;
   width: 50%;
 }
-.coluna:first {
+.coluna:first-child {
   background-color:navy;
   float:left;
 }
