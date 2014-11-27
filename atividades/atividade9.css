@@ -17,5 +17,5 @@ section {
 .coluna {
   display: inline-block;
   width: 48%;
-  border 5px solid white;
+  border 1% solid orange;
 }
