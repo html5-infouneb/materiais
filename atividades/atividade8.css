@@ -1,16 +1,17 @@
 body {
   background-color: Navy;
   color: Orange;
+  font-size: 20px;
 }
 
 #segundo {
   background-color: OrangeRed;
   color: Yellow;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .terceiro {
   background-color: Sienna;
   color: Violet;
-  font-size: 25px;
+  font-size: 35px;
 }
