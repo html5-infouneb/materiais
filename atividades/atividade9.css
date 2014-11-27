@@ -1,0 +1,13 @@
+header {
+  min-height: 40px;
+}
+footer {
+  min-height: 20px;
+}
+section {
+  min-height: 800px;
+}
+.coluna {
+  display: inline-block;
+  width: 50%;
+}
