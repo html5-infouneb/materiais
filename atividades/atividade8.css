@@ -1,0 +1,14 @@
+body {
+  background-color: Navy;
+  color: Orange;
+}
+
+#segundo {
+  background-color: OrangeRed;
+  color: Yellow;
+}
+
+.terceiro {
+  background-color: Sienna;
+  color: Violet;
+}
