@@ -1,13 +1,17 @@
 header {
   min-height: 40px;
+  background-color:yellow;
 }
 footer {
   min-height: 20px;
+  background-color:black;
 }
 section {
   min-height: 800px;
+  background-color:purple;
 }
 .coluna {
   display: inline-block;
   width: 50%;
+  border 5px solid white;
 }
