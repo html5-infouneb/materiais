@@ -19,6 +19,7 @@ section {
   display: inline-block;
   width: 50%;
 }
-.primeira.coluna {
+.coluna:first {
   background-color:navy;
+  float:left;
 }
