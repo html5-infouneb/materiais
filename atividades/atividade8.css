@@ -6,9 +6,11 @@ body {
 #segundo {
   background-color: OrangeRed;
   color: Yellow;
+  font-size: 15px;
 }
 
 .terceiro {
   background-color: Sienna;
   color: Violet;
+  font-size: 20px;
 }
